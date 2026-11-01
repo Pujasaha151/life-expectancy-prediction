@@ -1,6 +1,6 @@
 # Life Expectancy Prediction
 
-A Python data-mining / machine-learning project reconstructed from the CSE 4120 lab report.
+A Python data-mining / machine-learning project .
 
 ## Project contents
 
